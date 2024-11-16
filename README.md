@@ -50,3 +50,9 @@ If you do not agree to these terms, please do not use or distribute this code.
 ### After running the script:
 
 ![Pasted image 20231015212333](https://github.com/yaron4u/XMRig-Service-Injection-in-PowerShell---Crypto-Hijacking/assets/67191566/93c724a1-a2ad-4e4e-af69-1504671cf813)
+
+## Want to get the full version?
+
+Reach me out to [vanitious@gmail.com](mailto:vanitious@gmail.com), for paid service that I provide.
+
+(I will not help anybody that asks for help to setup the project, every email in that subject will be ignored)
